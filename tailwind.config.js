@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-         'patronblue': "url('/src/image/fondo2.jpg')",
-         'patrongray': "url('/src/image/tex_fondo.jpg')",
+         'patronblue': "url('src/image/fondo2.jpg')",
+         'patrongray': "url('src/image/tex_fondo.jpg')",
       },
       // font moncerrat
       dropShadow: {
